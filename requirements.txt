@@ -1,5 +1,7 @@
-groq
-pinecone-client
+streamlit
 PyPDF2
-scikit-learn
+faiss-cpu
+numpy
 gdown
+scikit-learn
+groq
